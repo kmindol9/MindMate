@@ -1,5 +1,5 @@
 
-## image
+<img src="https://github.com/kmindol9/MindMate/issues/2#issue-4149982390">
 
 # 1. Conceptualization
 
@@ -90,7 +90,7 @@
 # 2. System Context Diagram
 
 
-### System Context Diagram image
+<img src="https://github.com/kmindol9/MindMate/issues/3#issue-4149985441">
 
 ## Component
 
