@@ -99,5 +99,6 @@ User → AI Counseling System → AI Module / Data Source → Result
 
 ## Core  Value
 
-> “불안을 없애는 것이 아니라,
-> 불안을 이해하고 방향성을 찾도록 돕는다.”
+> "불안을 없애는 것이 아니라,
+> 불안을 이해하고 방향성을 찾도록 돕는다."   
+> "This system is not just a chatbot, but a decision-support system based on structured analysis and data."
