@@ -7,7 +7,7 @@
 
 | Revision date | Version # | Description | Author |
 |---------------|-----------|-------------|--------|
-|               |   1.0.0   | First Documentation | |
+|  2026-03-27   |  0.0.1    | 개념화 문서 작성 완료 | 김민석 |
 |               |           |             |        |
 |               |           |             |        |
 
